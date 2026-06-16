@@ -14,7 +14,7 @@ The data jobs salary dashboard was created to help job seekers investigate salar
 
 As a former job seeker, I've always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market.I set out to understand what skills top employeers request and how to land more pay.
 
-[check out my work here](project2-Dashboard)
+[check out my work here](project2-Analysis)
 
 
 <img width="874" height="537" alt="2_Project_Analysis_Chart1" src="https://github.com/user-attachments/assets/5f37a686-397f-4cc7-9c6b-1078d6cb5be0" />
