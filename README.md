@@ -6,7 +6,7 @@ Data Nerds! The repo contains all the excel files needed to follow along my exce
 
 The data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure the adaquately compensated.
 
-[check out my work here](project_1-Dashboard)
+[check out my work here](Project_1-Dashboard)
 
 <img width="800" height="333" alt="1_Salary_Dashboard_Final_Dashboard" src="https://github.com/user-attachments/assets/a82f5713-0f06-4951-b230-1db93e386c56" />
 
@@ -14,7 +14,7 @@ The data jobs salary dashboard was created to help job seekers investigate salar
 
 As a former job seeker, I've always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market.I set out to understand what skills top employeers request and how to land more pay.
 
-[check out my work here](project_2-Analysis)
+[check out my work here](Project_2-Analysis)
 
 
 <img width="874" height="537" alt="2_Project_Analysis_Chart1" src="https://github.com/user-attachments/assets/5f37a686-397f-4cc7-9c6b-1078d6cb5be0" />
